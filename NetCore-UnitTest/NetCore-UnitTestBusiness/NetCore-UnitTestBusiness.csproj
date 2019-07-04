@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>NetCore_UnitTestBusiness</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetCore-UnitTestData\NetCore-UnitTestData.csproj" />
+    <ProjectReference Include="..\NetCore-UnitTestEntity\NetCore-UnitTestEntity.csproj" />
+    <ProjectReference Include="..\NetCore-UnitTestModel\NetCore-UnitTestModel.csproj" />
+  </ItemGroup>
+
+</Project>
