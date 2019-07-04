@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore-UnitTestEntity", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore-UnitTestXUnit", "NetCore-UnitTestXUnit\NetCore-UnitTestXUnit.csproj", "{9CA67BC9-56A9-4C6D-B6F7-33B9A2D0511F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore-UnitTestMsTest", "NetCore-UnitTestMsTest\NetCore-UnitTestMsTest.csproj", "{F01CE4C7-9DDD-442B-AFD7-C00A8D56BC3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9CA67BC9-56A9-4C6D-B6F7-33B9A2D0511F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CA67BC9-56A9-4C6D-B6F7-33B9A2D0511F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CA67BC9-56A9-4C6D-B6F7-33B9A2D0511F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01CE4C7-9DDD-442B-AFD7-C00A8D56BC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01CE4C7-9DDD-442B-AFD7-C00A8D56BC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01CE4C7-9DDD-442B-AFD7-C00A8D56BC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01CE4C7-9DDD-442B-AFD7-C00A8D56BC3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
